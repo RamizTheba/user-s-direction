@@ -57,3 +57,7 @@ a:focus, a:focus .media-icon img, .wp-person a:focus .gravatar {
 .parent_container .template_element{
     margin-top: 10px;
 }
+
+span.UD-direction-icon img {
+    height: 50px;
+}
